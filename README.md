@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@rv_bb](https://telegram.me/your-nikname)</code>
-<code>📫 [mister02.rv@gmail.com](mailto:your-email)</code>
+<code>💬 telegram: [@rv_bb](https://telegram.me/rv_bb)</code>
+<code>📫 [mister02.rv@gmail.com](mailto:mister02.rv@gmail.com)</code>
